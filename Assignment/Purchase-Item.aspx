@@ -23,7 +23,7 @@
                         <asp:Label ID="Label2" runat="server" Text='<%# Eval("total_price","${0}")%>' />
                     </td>
                     <td>
-                        <asp:LinkButton ID="EditButton" CssClass="btn btn-primary" runat="server" CommandName="Edit"><i class="glyphicon glyphicon-pencil"></i> Edit</asp:LinkButton>
+                        <asp:LinkButton ID="EditButton" CssClass="btn1 btn-group" runat="server" CommandName="Edit"><i class="glyphicon glyphicon-pencil"></i> Edit</asp:LinkButton>
                         <asp:LinkButton ID="DeleteButton" CssClass="btn btn-danger" runat="server" CommandName="Delete"><i class="glyphicon glyphicon-trash"></i> Delete</asp:LinkButton>
                     </td>
                 </tr>
@@ -94,7 +94,7 @@
                         <asp:Label ID="Label2" runat="server" Text='<%# Eval("total_price","${0}")%>' />
                     </td>
                     <td>
-                        <asp:LinkButton ID="EditButton" CssClass="btn btn-primary" runat="server" CommandName="Edit"><i class="glyphicon glyphicon-pencil"></i> Edit</asp:LinkButton>
+                        <asp:LinkButton ID="EditButton" CssClass="btn btn-primary" runat="server" CommandName="Edit"><i class="glyphicon glyphicon-pencil"></i> Edit</></asp:LinkButton>
                         <asp:LinkButton ID="DeleteButton" CssClass="btn btn-danger" runat="server" CommandName="Delete"><i class="glyphicon glyphicon-trash"></i> Delete</asp:LinkButton>
                     </td>
                 </tr>
@@ -124,7 +124,7 @@
                                     <asp:NextPreviousPagerField ButtonType="Button" ButtonCssClass="btn btn-primary" ShowFirstPageButton="True" ShowNextPageButton="False" ShowPreviousPageButton="False" />
                                     <asp:NumericPagerField />
                                     <asp:NextPreviousPagerField ButtonType="Button" ButtonCssClass="btn btn-primary" ShowLastPageButton="True" ShowNextPageButton="False" ShowPreviousPageButton="False" />
-                                </Fields>
+                                </Fields> 
                             </asp:DataPager>
                         </td>
                     </tr>
