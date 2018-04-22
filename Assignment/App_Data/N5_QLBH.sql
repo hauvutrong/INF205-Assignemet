@@ -55,7 +55,7 @@ values(N'tranglhph@fpt.edu.vn',N'Lưu Hà Trang',N'Nữ','0989100398',N'Quảng 
 insert into customer
 values(N'thuytpph@fpt.edu.vn',N'Trần Phương Thúy',N'Nữ','0989223564',N'Quảng Ninh',N'https://image.vtc.vn/files/ctv.giaoduc/2016/06/15/jun-vu-2-1410.jpg')
 insert into customer
-values(N'maintph@fpt.edu.vn',N'Nguyễn Thị Mai',N'Nữ','01223456987',N'Hải Dương',N'http://www.tembako.com/wp-content/uploads/2017/08/Jennie-BP.jpg')
+values(N'maintph@fpt.edu.vn',N'Nguyễn Thị Ma',N'Nữ','01223456987',N'Hải Dương',N'http://www.tembako.com/wp-content/uploads/2017/08/Jennie-BP.jpg')
 insert into customer
 values(N'sonnh@fpt.edu.vn',N'Nguyễn Hoàng Sơn',N'Nữ','0989223456',N'Hà Nội',N'https://znews-photo-td.zadn.vn/w1024/Uploaded/oqivovbt/2018_01_15/soobin_1.jpg')
 
