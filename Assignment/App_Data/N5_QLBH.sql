@@ -149,7 +149,7 @@ values (N'Xe KAWASAKI Z1000 ABS ',410000,'https://vn-live.slatic.net/v2/resize/p
 insert into products
 values (N'Xiaomi Mi A1 32GB RAM 4GB',4700,'https://vn-live.slatic.net/v2/resize/products/-fdf6ad70ad35dbe0f49ecff07ffaa7ee.jpg',4)
 insert into products
-values (N'Găng Tay Phượt , Tập Gym ',55,'https://vn-live.slatic.net/original/f939e12fc94a14a5251f42d8e0e02d31.jpg',3)
+values (N'Găng Tay Phượt , Tập Gy ',55,'https://vn-live.slatic.net/original/f939e12fc94a14a5251f42d8e0e02d31.jpg',3)
 insert into products
 values (N'Bình lọc nước Hưng Long Magma 15L',5800,'https://vn-live.slatic.net/v2/resize/products/S-16547-9866cee79d0e54ba7948d63618ce983f.jpg',5)
 insert into products
